@@ -2,9 +2,9 @@
 
         /*Body é a cor de fundo geral, fonte e etc*/
 body {
-    background: linear-gradient(70deg,#2dd9e2 0%, #1845ad 20%, #2dd9e2 80%);  /*Gradiente de cores */
+   /* background: linear-gradient(70deg,#2dd9e2 0%, #1845ad 20%, #2dd9e2 80%);  /*Gradiente de cores */
     font-family: Garamond, sans-serif;
-   /* background-color: #a43535; */
+    background-color: #424549; 
    background-attachment: fixed;
    max-width: auto;
     margin: 0;
